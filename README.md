@@ -1,3 +1,3 @@
 # haloplus
 
-## Contact us email address: dev@haloplus.vn
+## Contact us email address: admin@haloplus.vn
